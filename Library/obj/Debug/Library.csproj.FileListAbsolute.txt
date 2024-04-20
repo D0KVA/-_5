@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\PC\source\repos\Library\Library\bin\Debug\Library.exe
+C:\Users\PC\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Library\Library\obj\Debug\View\MainWindow.g.cs
+C:\Users\PC\source\repos\Library\Library\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library_MarkupCompile.cache
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library_MarkupCompile.lref
+C:\Users\PC\source\repos\Library\Library\obj\Debug\View\MainWindow.baml
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library.g.resources
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library.exe
+C:\Users\PC\source\repos\Library\Library\obj\Debug\Library.pdb

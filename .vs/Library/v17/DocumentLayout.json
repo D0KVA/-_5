@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{809D07A3-05FD-4753-876C-EC6A3101432F}|Library\\Library.csproj|c:\\users\\pc\\source\\repos\\library\\library\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{809D07A3-05FD-4753-876C-EC6A3101432F}|Library\\Library.csproj|solutionrelative:library\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809D07A3-05FD-4753-876C-EC6A3101432F}|Library\\Library.csproj|C:\\Users\\PC\\source\\repos\\Library\\library\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809D07A3-05FD-4753-876C-EC6A3101432F}|Library\\Library.csproj|solutionrelative:library\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809D07A3-05FD-4753-876C-EC6A3101432F}|Library\\Library.csproj|C:\\Users\\PC\\source\\repos\\Library\\library\\model\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809D07A3-05FD-4753-876C-EC6A3101432F}|Library\\Library.csproj|solutionrelative:library\\model\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Library\\Library\\Model\\Books.cs",
+              "RelativeDocumentMoniker": "Library\\Model\\Books.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Library\\Library\\Model\\Books.cs",
+              "RelativeToolTip": "Library\\Model\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:13:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Library\\Library\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Library\\Library\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Library\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:51:10.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Library\\Library\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Library\\Library\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Library\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-20T19:48:17.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
